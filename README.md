@@ -3,6 +3,10 @@ I’ve provided a collection of ready-to-use Photoshop (PSD) files that you can 
 
 ❌ To use this template, you must have Adobe Photoshop installed.
 
+I used the Iran font.
+
+You can download this font from this [link](https://fontiran.com/fonts/iran-family-typeface).
+
 ## How to Use
 
 1. Download the PSD file from this repository.
